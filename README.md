@@ -48,8 +48,7 @@ Més endavant, en l'exercici, distingirem els diferents apartats que tenim. Ara,
 
 ### Nav
 
-Dins de`<nav>`, creeu una etiqueta `<ul>`
-- amb tres elements:
+Dins de`<nav>`, creeu una etiqueta `<ul>` amb tres elements:
 
 - Estructura de la jornada
 - Equip
